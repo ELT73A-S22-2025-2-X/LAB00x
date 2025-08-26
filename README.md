@@ -7,3 +7,9 @@ git status
 git add
 git commit
 ```
+
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
